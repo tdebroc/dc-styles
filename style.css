@@ -1,0 +1,42 @@
+body {
+background-color: #2F2F2F;
+}
+
+
+
+.css-b95abb {
+background-color: #3C3C3C;
+}
+
+.css-g9f0ua {
+background-color: #171717;
+}
+
+.css-1ioljzb {
+background-color: #FAFAFA;
+}
+
+.css-li4rb1 {
+background-color: #171717;
+}
+
+.css-14p6wfp {
+background-color: #EBEBEB;
+}
+
+.css-4i29x9, .css-c95ib {
+height: 400px;
+}
+
+.css-1p0howy {
+padding: 1.44rem 0rem 1.44rem 1.44rem;
+}
+
+.css-19fkdc9.Mui-disabled {
+-webkit-text-fill-color:black;
+}
+
+main[data-testid="page.home"] .fr-view table td, .fr-view table th {
+border: none;
+}
+
