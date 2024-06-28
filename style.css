@@ -40,3 +40,16 @@ main[data-testid="page.home"] .fr-view table td, .fr-view table th {
 border: none;
 }
 
+li:has(> a[href="/app/filesystem"]) {
+ display: none;
+}
+
+li:has(> a[href="/app/policies"]) {
+ display: none;
+}
+
+div:has(> a[href="https://docs.alationdata.com/en/latest/welcome/DocumentHubs/index.html"]) {
+ display: none;
+}
+
+
