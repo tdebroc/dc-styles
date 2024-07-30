@@ -2,7 +2,7 @@ body {
   background-color: #2F2F2F !important;
 }
 
-div[data-testid="wayfinder-drawer-container"], .MuiDrawer-paperAnchorLeft, .MuiAvatar-circular {
+div[data-testid="wayfinder-drawer-container"], .MuiDrawer-paperAnchorLeft, .MuiAvatar-circular, div[data-testid="search-box"] {
 background-color: #3C3C3C !important;
 }
 
