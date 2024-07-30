@@ -1,11 +1,9 @@
 body {
-background-color: #2F2F2F !important;
+  background-color: #2F2F2F !important;
 }
 
-
-
-.css-b95abb {
-background-color: #3C3C3C;
+div[data-testid="wayfinder-drawer-container"], .MuiDrawer-paperAnchorLeft, .MuiAvatar-circular {
+background-color: #3C3C3C !important;
 }
 
 .css-g9f0ua {
@@ -51,5 +49,3 @@ li:has(> a[href="/app/policies"]) {
 div:has(> a[href="https://docs.alationdata.com/en/latest/welcome/DocumentHubs/index.html"]) {
  display: none;
 }
-
-
