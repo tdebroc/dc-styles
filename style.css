@@ -22,6 +22,10 @@ background-color: #171717;
 background-color: #EBEBEB;
 }
 
+main > div>  div>  div.MuiBox-root {
+  height: 400px;
+}
+
 .css-4i29x9, .css-c95ib, .css-118bjyi {
 height: 400px;
 }
