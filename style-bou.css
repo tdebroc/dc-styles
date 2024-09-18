@@ -1,0 +1,14 @@
+nav[aria-label="Wayfinder"] li:has(a[href="/app/doc-hub/2"]) {
+    display: none;
+}
+
+
+nav[aria-label="Wayfinder"] li:has(a[href="/app/domain"]) {
+    display: none;
+  }
+
+
+
+div:has(> #domainGroupFilter-header) {
+  display: none
+}
