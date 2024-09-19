@@ -54,3 +54,7 @@ li:has(> a[href="/app/policies"]) {
 div:has(> a[href="https://docs.alationdata.com/en/latest/welcome/DocumentHubs/index.html"]) {
  display: none;
 }
+
+a[data-pendoid="topbar.switch-to-classic-experience"] {
+  display: none;
+}
