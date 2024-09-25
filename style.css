@@ -5,6 +5,9 @@
 div[data-testid="wayfinder-drawer-container"], .MuiDrawer-paperAnchorLeft, .MuiAvatar-circular, header  div[data-testid="search-box"] {
 background-color: #3C3C3C !important;
 }
+nav[aria-label='Wayfinder'] div[role="presentation"] > .MuiPaper-root {
+  border-right-color:#3C3C3C !important
+}
 
 .css-g9f0ua {
 background-color: #171717;
