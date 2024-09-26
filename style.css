@@ -61,3 +61,22 @@ div:has(> a[href="https://docs.alationdata.com/en/latest/welcome/DocumentHubs/in
 a[data-pendoid="topbar.switch-to-classic-experience"] {
   display: none;
 }
+
+
+main[data-testid='page.table'] button[data-testid='rich-text-field--edit-menu-item:4'] {
+  display: none
+}
+
+main[data-testid='page.table'] button[data-testid='suggest-button:description'] {
+  display: none
+}
+
+
+main[data-testid='page.attribute'] button[data-testid='rich-text-field--edit-menu-item:4'] {
+  display: none
+}
+
+main[data-testid='page.attribute'] button[data-testid='suggest-button:description'] {
+  display: none
+}
+
