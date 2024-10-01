@@ -9,6 +9,10 @@ nav[aria-label='Wayfinder'] div[role="presentation"] > .MuiPaper-root {
   border-right-color:#3C3C3C !important
 }
 
+main[data-testid='page.home'] .MuiGrid-item:has(#data-catalog-onboarding) {
+  display: none; 
+}
+
 .css-g9f0ua {
 background-color: #171717;
 }
